@@ -1,0 +1,18 @@
+Start the purchase process
+
+Allow the user to select products
+
+Add the selected products to the cart
+
+Prompt the user to enter shipping details
+
+Prompt the user to select a payment method
+
+If the user selects a digital payment platform
+    Proceed to the digital payment process
+Else if the user selects a credit card
+    Proceed to the credit card payment process
+
+Confirm the order
+
+End the purchase process
